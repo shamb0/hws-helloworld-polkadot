@@ -135,7 +135,10 @@
 
 * [hws-hw-polkadot-erc20/demo-pdot-api-backend at main · shamb0/hws-hw-polkadot-erc20](https://github.com/shamb0/hws-hw-polkadot-erc20/tree/main/demo-pdot-api-backend)
 
+## Challenge-20 | 2020-Oct-28 | [BEGINNER CHALLENGES] Front-End Javascript
 
+* [[BEGINNER CHALLENGES] Front-End Javascript | Polkadot-Network Funded Issue Detail | Gitcoin | Gitcoin](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/14/100023940)
 
+* [shamb0/demo-pdot-api-dash](https://github.com/shamb0/demo-pdot-api-dash)
 
 
