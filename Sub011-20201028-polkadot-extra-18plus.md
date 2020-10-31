@@ -141,4 +141,8 @@
 
 * [shamb0/demo-pdot-api-dash](https://github.com/shamb0/demo-pdot-api-dash)
 
+## Challenge-21 | 2020-Oct-31 | [BEGINNER CHALLENGES] Play with Westend
 
+* [[BEGINNER CHALLENGES] Play with Westend | Polkadot-Network Funded Issue Detail | Gitcoin | Gitcoin](https://gitcoin.co/issue/Polkadot-Network/hello-world-by-polkadot/15/100023941)
+
+* [hws-helloworld-polkadot/Sub012-20201031-polkadot-Play-With-Westend.md at main · shamb0/hws-helloworld-polkadot](https://github.com/shamb0/hws-helloworld-polkadot/blob/main/Sub012-20201031-polkadot-Play-With-Westend.md)
